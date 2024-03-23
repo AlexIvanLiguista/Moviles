@@ -106,6 +106,7 @@ fun PersonList() {
                 }
                 name = ""
                 age = ""
+
             }
         ) {
             Icon(
